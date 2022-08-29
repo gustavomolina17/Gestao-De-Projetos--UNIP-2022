@@ -24,3 +24,11 @@
     - Período de Exames (Não Haverá Aula)
 - [x]  Aula 09 - 16/12/22
     - Revisão de Notas e faltas (Estarei presente nesse dia em sala de aula para os alunos que precisarem / quiserem rever as notas e / ou faltas.)
+    
+## Conteúdo das Provas
+- [x]  NP1
+    - Aulas 1 e 2 (Conceitos de Gestão de Projeto)
+
+## Atividades para Nota - 1º Bimestre
+- [x]  Atividade 01 - Termo de Abertura 
+    - Prazo de Entrega 09/09/22 (23:45) via google forms
