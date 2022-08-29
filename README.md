@@ -11,13 +11,13 @@
 - [x]  Aula 01 - 26/08/22 || Aula 02 - 09/09/22
     - Conceitos de Gestão Projeto
 - [x]  Aula 03 - 23/09
-    - 
+    - Tbd
 - [x]  Aula 04 - 07/10
-    - 
+    - Tbd
 - [x]  Aula 05 - 21/10
-    - 
+    - Tbd
 - [x]  Aula 06 - 04/11 
-    - 
+    - Tbd
 - [x]  Aula 07 - 18/11/22
     - Período de Provas NP2 (Não Haverá Aula)
 - [x] Aula 08 - 02/12/22
