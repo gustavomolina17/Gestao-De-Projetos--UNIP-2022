@@ -32,3 +32,5 @@
 ## Atividades para Nota - 1º Bimestre
 - [x]  Atividade 01 - Termo de Abertura 
     - Prazo de Entrega 09/09/22 (23:45) via google forms
+- [x]  Atividade 02 - Eap e Cronograma 
+    - Prazo de Entrega 23/09/22 (23:45) via google forms
