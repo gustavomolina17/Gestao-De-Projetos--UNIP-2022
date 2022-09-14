@@ -33,7 +33,7 @@
 - [x]  NP1
     - Aulas 1 e 2.
 
-## Atividades para Nota - 1º Bimestre
+## Atividades para Nota - 1º Bimestre (Vale 50% da Nota)
 - [x]  Atividade 01 - Termo de Abertura 
     - Prazo de Entrega 09/09/22 (23:45) via google forms
 - [x]  Atividade 02 - Eap e Cronograma 
