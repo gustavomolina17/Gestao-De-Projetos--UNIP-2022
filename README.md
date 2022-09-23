@@ -42,13 +42,17 @@
 - [x]  Atividade 02 - Eap e Cronograma 
     - Prazo de Entrega 23/09/22 (23:45) via google forms
     
-## Atividades para Nota - 2º Bimestre (Vale como NP2) - Entrega Online
+## Atividades para Nota - 2º Bimestre (Vale como NP2) - Entrega Online - Total: 6,0 pontos
 
 *Somente serão aceitas atividades entregues no prazo e pelo formulário. Não serão aceitas entregar por email ou Teams.
 
-- [x]  Atividade 01 - Declaração do Escopo do Projeto
+- [x]  Atividade 01 - Declaração do Escopo do Projeto (valor 2,0)
     - Prazo de Entrega 02/10/22 (23:45) via google forms - https://forms.office.com/r/vVQmiKP9fg
-- [x]  Atividade 02 - Planilha de Orçamento & Partes Interessadas
+- [x]  Atividade 02 - Planilha de Orçamento & Partes Interessadas (valor 1,0)
     - Prazo de Entrega 30/09/22 (23:45) via google forms - https://forms.office.com/r/Jb5t1BcfKw
-- [x]  Atividade 03 - Gerenciamento de Riscos
+- [x]  Atividade 03 - Gerenciamento de Riscos (valor 3,0)
     - Prazo de Entrega 14/10/22 (23:45) via google forms - https://forms.office.com/r/fEJsS1vLqZ
+    
+## Plano de Negócio - Entrega Presencial na Semana de NP2 - Total: 4,0 pontos
+
+*O Plano de Negócios deve ser entregue PRESENCIALMENTE no dia da NP2 da disciplina (Data a ser definida). TODOS OS INTEGRANTES DEVEM ESTAR PRESENTES, pois, nesse dia assinarão a lista de presença de prova. Se houver ausência do aluno no dia, será lançado em sistema NP e o aluno deverá fazer a prova substitutiva. 
