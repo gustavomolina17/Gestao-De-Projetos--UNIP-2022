@@ -32,7 +32,9 @@
     
 ## Conteúdo das Provas
 - [x]  NP1
-    - Aulas 1 e 2.
+    - Aulas 1 e 2.  
+- [x]  NP2
+    - Atividades realizadas ao longo do bimestre.
 
 ## Atividades para Nota - 1º Bimestre (Vale 50% da Nota)
 - [x]  Atividade 01 - Termo de Abertura 
