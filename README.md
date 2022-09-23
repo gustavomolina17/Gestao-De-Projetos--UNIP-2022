@@ -8,16 +8,21 @@
 
 ## Cronograma
 
-- [x]  Aula 01 - 26/08/22 || Aula 02 - 09/09/22
+- [x]  Aula 01 - 26/08/22
     - Conceitos de Gestão Projeto
+- [x]  Aula 02 - 09/09/22
+    - EAP/WBS
+    - Gerenciamento de Cronograma
+    - Gerenciamento de Riscos
 - [x]  Aula 03 - 23/09
-    - Tbd
+    - Gerenciamento do Escopo
+    - Requisitos
 - [x]  Aula 04 - 07/10
-    - Tbd
+    - 
 - [x]  Aula 05 - 21/10
-    - Tbd
+    - 
 - [x]  Aula 06 - 04/11 
-    - Tbd
+    - 
 - [x]  Aula 07 - 18/11/22
     - Período de Provas NP2 (Não Haverá Aula)
 - [x] Aula 08 - 02/12/22
@@ -27,8 +32,10 @@
     
 ## Conteúdo das Provas
 - [x]  NP1
-    - Aulas 1 e 2 (Conceitos de Gestão de Projeto)
+    - Aulas 1 e 2.
 
-## Atividades para Nota - 1º Bimestre
+## Atividades para Nota - 1º Bimestre (Vale 50% da Nota)
 - [x]  Atividade 01 - Termo de Abertura 
     - Prazo de Entrega 09/09/22 (23:45) via google forms
+- [x]  Atividade 02 - Eap e Cronograma 
+    - Prazo de Entrega 23/09/22 (23:45) via google forms
