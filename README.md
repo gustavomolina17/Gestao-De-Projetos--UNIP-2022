@@ -15,7 +15,8 @@
     - Gerenciamento de Cronograma
     - Gerenciamento de Riscos
 - [x]  Aula 03 - 23/09
-    - 
+    - Gerenciamento do Escopo
+    - Requisitos
 - [x]  Aula 04 - 07/10
     - 
 - [x]  Aula 05 - 21/10
