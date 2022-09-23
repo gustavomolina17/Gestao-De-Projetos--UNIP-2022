@@ -41,3 +41,9 @@
     - Prazo de Entrega 09/09/22 (23:45) via google forms
 - [x]  Atividade 02 - Eap e Cronograma 
     - Prazo de Entrega 23/09/22 (23:45) via google forms
+    
+## Atividades para Nota - 2º Bimestre (Vale como NP2)
+- [x]  Atividade 01 - Declaração do Escopo do Projeto
+    - Prazo de Entrega 02/10/22 (23:45) via google forms - https://forms.office.com/r/vVQmiKP9fg
+- [x]  Atividade 02 - Planilha de Orçamento & Partes Interessadas
+    - Prazo de Entrega 30/09/22 (23:45) via google forms - https://forms.office.com/r/Jb5t1BcfKw
