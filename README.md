@@ -18,7 +18,7 @@
     - Gerenciamento do Escopo
     - Requisitos
 - [x]  Aula 04 - 07/10
-    - 
+    - Palestra B3 - Fact or Fiction
 - [x]  Aula 05 - 21/10
     - 
 - [x]  Aula 06 - 04/11 
