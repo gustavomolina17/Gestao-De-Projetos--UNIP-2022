@@ -18,11 +18,11 @@
     - Gerenciamento do Escopo
     - Requisitos
 - [x]  Aula 04 - 07/10
-    - 
+    - Palestra B3 - Fact or Fiction
 - [x]  Aula 05 - 21/10
-    - 
+    - Plano de Negócios
 - [x]  Aula 06 - 04/11 
-    - 
+    - Revisão
 - [x]  Aula 07 - 18/11/22
     - Período de Provas NP2 (Não Haverá Aula)
 - [x] Aula 08 - 02/12/22
