@@ -22,7 +22,7 @@
 - [x]  Aula 05 - 21/10
     - Plano de Negócios
 - [x]  Aula 06 - 04/11 
-    - Revisão
+    - Entrega Presencial do Plano de Negócios
 - [x]  Aula 07 - 18/11/22
     - Período de Provas NP2 (Não Haverá Aula)
 - [x] Aula 08 - 02/12/22
@@ -53,6 +53,6 @@
 - [x]  Atividade 03 - Gerenciamento de Riscos (valor 3,0)
     - Prazo de Entrega 14/10/22 (23:45) via google forms - https://forms.office.com/r/fEJsS1vLqZ
     
-## Plano de Negócio - Entrega Presencial na Semana de NP2 - Total: 4,0 pontos
+## Plano de Negócio - Entrega Presencial no dia 04/11 (19:10 - 20:25) - Total: 4,0 pontos
 
-*O Plano de Negócios deve ser entregue PRESENCIALMENTE no dia da NP2 da disciplina (Data a ser definida). TODOS OS INTEGRANTES DEVEM ESTAR PRESENTES, pois, nesse dia assinarão a lista de presença de prova. Se houver ausência do aluno no dia, será lançado em sistema NP e o aluno deverá fazer a prova substitutiva. 
+*O Plano de Negócios deve ser entregue PRESENCIALMENTE no dia 04/11. TODOS OS INTEGRANTES DEVEM ESTAR PRESENTES, pois, nesse dia assinarão a lista de presença de prova. Se houver ausência do aluno no dia, será lançado em sistema NP e o aluno deverá fazer a prova substitutiva. 
